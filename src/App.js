@@ -117,7 +117,7 @@ export default function App() {
     <div style={{ width: "100vw", height: "100vh", background: '#08080a', position: 'relative', overflow: 'hidden' }}>
       
       {/* 대시보드 */}
-      <div style={{ position: 'absolute', right: 0, top: 0, width: '420px', height: '100%', background: 'rgba(10, 10, 15, 0.98)', borderLeft: '2px solid #222', zIndex: 900, display: 'flex', flexDirection: 'column' }}>
+      <div style={{ position: 'absolute', right: 0, top: 0, width: '420px', height: '100%', background: 'rgba(10, 10, 15, 0.598)', borderLeft: '2px solid #222', zIndex: 900, display: 'flex', flexDirection: 'column' }}>
         <div style={{ padding: '30px 20px', borderBottom: '1px solid #222' }}>
           
           <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '8px', marginBottom: '25px' }}>
